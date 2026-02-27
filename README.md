@@ -1,44 +1,44 @@
-# Гурбан Хандурдыев
+# Gurban Handurdyev
 
 **Python (Django) Developer**
 
-Минск, Беларусь
+Minsk, Belarus
 
 ---
 
-## О себе
+## About Me
 
-Backend-разработчик с фокусом на Python (Django). Интересуюсь сетевым программированием на C/C++ и Go. Стремлюсь писать чистый, масштабируемый код.
+Backend developer with a focus on Python (Django). Interested in network programming with C/C++ and Go. Strive to write clean, scalable code.
 
 ---
 
-## Навыки
+## Skills
 
 - **Python**: Django, DRF, Asyncio
-- **Базы данных**: PostgreSQL, SQLite
-- **Инструменты**: Git, Linux, Nginx
-- **C/C++, Go**: сетевое программирование (сокеты, протоколы, TCP/IP)
-- **Парадигмы**: ООП, SOLID, REST, паттерны проектирования
+- **Databases**: PostgreSQL, SQLite
+- **Tools**: Git, Linux, Nginx
+- **C/C++, Go**: network programming (sockets, protocols, TCP/IP)
+- **Paradigms**: OOP, SOLID, REST, design patterns
 
 ---
 
-## Образование
+## Education
 
-**Белорусский государственный университет (БГУ)**  
-Юридический факультет
-
----
-
-## Языки
-
-- Русский — родной
-- Туркменский — родной
-- Турецкий — B2
-- Английский — B1 (техническая документация)
+**Belarusian State University (BSU)**  
+Faculty of Law
 
 ---
 
-## Контакты
+## Languages
+
+- Russian — native
+- Turkmen — native
+- Turkish — B2
+- English — B1 (technical documentation)
+
+---
+
+## Contact
 
 - Telegram: @ghar29
 - Email: gurbanhandurdyew@gmail.com
@@ -46,4 +46,4 @@ Backend-разработчик с фокусом на Python (Django). Инте�
 
 ---
 
-*Открыт к предложениям и сотрудничеству*
+*Open to proposals and collaboration*
